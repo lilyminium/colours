@@ -63,10 +63,16 @@ colors = ['#F9337B', '#120D5A', '#FFC131', '#2BC1E2', '#580E33',
           '#CECECE', '#000000']
 ```
 
-Colour-blind representations courtesy of [David Nichols' 
+Colour-blind (top 3) representations courtesy of [David Nichols' 
 Coloring for Colorblindness tool](https://davidmathlogic.com/colorblind/#%23F9337B-%23120D5A-%23FFC131-%232BC1E2-%23580E33-%23095400-%23EC7F40-%2351DEC6-%23F0BCC7-%230286D2-%23AAFFC3-%23BD38A7-%236F6F20-%23800000-%23E6BEFF-%23896444-%23BFEF45-%23CC3311-%23F4C99F-%23225555-%23CECECE-%23000000):
 
 ![20-palette colourblindness](plots/pal20_colourblind.png)
+
+* protanopia: 1% Caucasian males
+* deuteranopia: 1% Caucasian males
+* tritanopia: super rare, ~0%
+
+[Stats from here.](https://disorders.eyes.arizona.edu/category/alternate-names/protanopia)
 
 ### More
 
